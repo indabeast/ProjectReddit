@@ -1,0 +1,11 @@
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/bin/Debug/net7.0/shared.deps.json
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/bin/Debug/net7.0/shared.dll
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/bin/Debug/net7.0/shared.pdb
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.AssemblyInfoInputs.cache
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.AssemblyInfo.cs
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.csproj.CoreCompileInputs.cache
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.dll
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/refint/shared.dll
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/shared.pdb
+/Users/hendrikmolgaard/RiderProjects/ProjectReddit/shared/obj/Debug/net7.0/ref/shared.dll
