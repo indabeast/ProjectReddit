@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProRedClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e7dc5793d3b6bdee125d9cf8674eaf93c44b28")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProRedClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProRedClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
